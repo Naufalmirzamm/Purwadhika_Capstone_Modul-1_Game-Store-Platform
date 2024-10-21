@@ -43,5 +43,5 @@ Login dan Registrasi: Mendukung login untuk Admin dan User, serta memungkinkan U
 
 #### **Source**
 Data Game :
-[Steam](https://store.steampowered.com/)
-[Epic](https://store.epicgames.com/en-US/)
+- [Steam](https://store.steampowered.com/)
+- [Epic](https://store.epicgames.com/en-US/)

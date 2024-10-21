@@ -1,4 +1,7 @@
 # Game Store Platform
+> [!NOTE]
+> Jika ingin mencoba program silahkan menggunakan data :
+> Admin Password : Admin123 | User : Nishi , Password : Nishi12
 
 ## **Deskripsi Proyek**
 

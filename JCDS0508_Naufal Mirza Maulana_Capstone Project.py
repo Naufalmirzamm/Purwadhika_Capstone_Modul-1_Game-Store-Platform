@@ -173,7 +173,7 @@ def print_users():
     print(table)
 
 # ======================================================================================
-# ===================== Fungsi print =====================
+# ===================== Fungsi Login =====================
 
 # ================================================
 # |                 Admin Login                  |
@@ -270,8 +270,6 @@ def view_transaction_history():
             print(f"\nUser: {user}")
             for transaction in transactions:
                 print(f"- {transaction}\n")
-
-# ========= Users Delete =========
 
 # ================================================
 # |            Fungsi Delete Users               |

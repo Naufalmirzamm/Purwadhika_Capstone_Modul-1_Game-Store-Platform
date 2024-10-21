@@ -19,25 +19,25 @@ Login dan Registrasi: Mendukung login untuk Admin dan User, serta memungkinkan U
 
 **Manajemen Pengguna (Admin):**
 
-Melihat daftar pengguna.
+- Melihat daftar pengguna.
 
-Menghapus akun pengguna (kecuali Admin).
+- Menghapus akun pengguna (kecuali Admin).
 
 **Manajemen Game (Admin):**
 
-Menambah, mengedit, dan menghapus game dari toko.
+- Menambah, mengedit, dan menghapus game dari toko.
 
 **Fitur User**
 
-Pembelian Game (User): User dapat membeli game dari daftar game yang tersedia.
+- Pembelian Game (User): User dapat membeli game dari daftar game yang tersedia.
 
-Filter Game (User): User dapat memfilter game berdasarkan genre, rating, atau review.
+- Filter Game (User): User dapat memfilter game berdasarkan genre, rating, atau review.
 
-Library Game (User): Melihat game yang sudah dimiliki oleh User.
+- Library Game (User): Melihat game yang sudah dimiliki oleh User.
 
-Refund Game (User): User dapat melakukan refund game yang telah dibeli.
+- Refund Game (User): User dapat melakukan refund game yang telah dibeli.
 
-Saldo Akun (User): User dapat melihat saldo dan menambah saldo ke akun mereka.
+- Saldo Akun (User): User dapat melihat saldo dan menambah saldo ke akun mereka.
 
 #### **Source**
 [Steam](https://store.steampowered.com/)

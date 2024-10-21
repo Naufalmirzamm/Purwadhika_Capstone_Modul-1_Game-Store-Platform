@@ -1,6 +1,6 @@
-# Purwadhika_Capstone_Modul-1_Game-Store-Platform
 
-Deskripsi Proyek
+
+# Deskripsi Proyek
 
 Game Store Platform adalah aplikasi berbasis Python untuk simulasi toko game digital bernama "Nishi Game Store". Aplikasi ini menyediakan fitur-fitur yang mirip dengan platform game modern, seperti membeli game, menambah saldo, melihat library game, dan melakukan pengembalian (refund) game yang sudah dibeli.
 
@@ -10,7 +10,7 @@ Admin memiliki akses penuh untuk menambah, mengedit, menghapus game, serta menge
 
 User dapat membeli game, melihat library, meminta refund, dan mengelola saldo akun mereka.
 
-Fitur Utama
+# Fitur Utama
 
 Login dan Registrasi: Mendukung login untuk Admin dan User, serta memungkinkan User untuk membuat akun baru.
 

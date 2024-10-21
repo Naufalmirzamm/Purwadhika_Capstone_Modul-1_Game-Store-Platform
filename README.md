@@ -1,6 +1,6 @@
 # Game Store Platform
 
-### Deskripsi Proyek
+### **Deskripsi Proyek**
 
 Game Store Platform adalah aplikasi berbasis Python untuk simulasi toko game digital bernama "Nishi Game Store". Aplikasi ini menyediakan fitur-fitur yang mirip dengan platform game modern, seperti membeli game, menambah saldo, melihat library game, dan melakukan pengembalian (refund) game yang sudah dibeli.
 

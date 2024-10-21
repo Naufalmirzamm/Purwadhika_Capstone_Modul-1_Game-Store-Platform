@@ -33,6 +33,8 @@ Login dan Registrasi: Mendukung login untuk Admin dan User, serta memungkinkan U
 
 - Filter Game (User): User dapat memfilter game berdasarkan genre, rating, atau review.
 
+- Search Game (User): User dapat mencari game dari daftar game yang tersedia.
+
 - Library Game (User): Melihat game yang sudah dimiliki oleh User.
 
 - Refund Game (User): User dapat melakukan refund game yang telah dibeli.

@@ -17,15 +17,17 @@ User dapat membeli game, melihat library, meminta refund, dan mengelola saldo ak
 
 Login dan Registrasi: Mendukung login untuk Admin dan User, serta memungkinkan User untuk membuat akun baru.
 
-Manajemen Pengguna (Admin):
+**Manajemen Pengguna (Admin):**
 
 Melihat daftar pengguna.
 
 Menghapus akun pengguna (kecuali Admin).
 
-Manajemen Game (Admin):
+**Manajemen Game (Admin):**
 
 Menambah, mengedit, dan menghapus game dari toko.
+
+**Fitur User**
 
 Pembelian Game (User): User dapat membeli game dari daftar game yang tersedia.
 

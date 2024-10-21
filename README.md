@@ -42,4 +42,6 @@ Login dan Registrasi: Mendukung login untuk Admin dan User, serta memungkinkan U
 - Saldo Akun (User): User dapat melihat saldo dan menambah saldo ke akun mereka.
 
 #### **Source**
+Data Game :
 [Steam](https://store.steampowered.com/)
+[Epic](https://store.epicgames.com/en-US/)
